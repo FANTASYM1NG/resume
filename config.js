@@ -5,7 +5,7 @@ var app = new Vue({
     姓名: '袁铭',
     号码: '18601723549',
     邮箱: 'about_you123@126.com',
-    个人网页: 'www.baidu.com',
+    个人网页: 'https://fantasym1ng.github.io/resume/',
     地址: '上海',
     职业: '中国联通产品运营',
     头像地址: 'images/user.png',
